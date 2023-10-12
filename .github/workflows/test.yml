@@ -10,6 +10,13 @@ on:
           - monalisa
           - cschleiden
           - adarshjhaa100
+      name_2:
+        type: choice
+        description: Who to greetss
+        options:
+          - cat
+          - dawg
+          - aj
 jobs:
   greet:
     runs-on: ubuntu-latest
