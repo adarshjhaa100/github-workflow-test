@@ -7,7 +7,8 @@ on:
         type: choice
         description: Who to greet
         options:
-
+          - monalisa
+          - cschleiden
 jobs:
   greet:
     runs-on: ubuntu-latest
