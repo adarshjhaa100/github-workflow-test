@@ -11,7 +11,7 @@ on:
           - cschleiden
       favourite_animal:
         type: choice
-        description: Who to greet
+        description: Select an animal
         options:
           - cat
           - dog
