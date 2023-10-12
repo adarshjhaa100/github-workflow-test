@@ -23,9 +23,6 @@ on:
         type: choice
         description: Who to greetss
         options:
-          - cat
-          - dawg
-          - aj
 jobs:
   greet:
     runs-on: ubuntu-latest
