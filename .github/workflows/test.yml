@@ -9,6 +9,12 @@ on:
         options:
           - monalisa
           - cschleiden
+      favourite_animal:
+        type: choice
+        description: Who to greet
+        options:
+          - cat
+          - dog
 jobs:
   greet:
     runs-on: ubuntu-latest
