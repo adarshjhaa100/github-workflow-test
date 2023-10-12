@@ -10,6 +10,15 @@ on:
           - monalisa
           - cschleiden
           - adarshjhaa100
+          - monalisa1
+          - cschleiden2
+          - adarshjhaa100323
+          - monalisa432432432
+          - cschleiden32432432
+          - adarshjhaa100234324324
+          - monalisa23432432
+          - cschleiden4356465465
+          - adarshjhaa100657657657
       name_2:
         type: choice
         description: Who to greetss
