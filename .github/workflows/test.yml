@@ -9,6 +9,7 @@ on:
         options:
           - monalisa
           - cschleiden
+          - adarshjhaa100
 jobs:
   greet:
     runs-on: ubuntu-latest
