@@ -9,6 +9,14 @@ on:
         options: 
         - monalisa
         - cschleiden
+      fav_animal:
+        type: choice
+        description: what's your favourite animal
+        required: true
+        options: 
+        - pikachu
+        - snorlax
+        - dragonite
       message:
         description: Enter message
         required: true
