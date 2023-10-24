@@ -6,6 +6,7 @@ on:
       name:
         type: choice
         description: Who to greet
+        default: monalisa
         options: 
         - monalisa
         - cschleiden
