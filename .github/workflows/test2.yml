@@ -14,6 +14,7 @@ on:
         type: choice
         description: what's your favourite animal
         required: true
+        default: snorlax
         options: 
         - pikachu
         - snorlax
